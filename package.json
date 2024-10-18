@@ -2,7 +2,7 @@
   "author": "Savenko Evgeniy <wayrez27@gmail.com>",
   "name": "yandex-smart-captcha-types",
   "description": "TypeScript definitions for Yandex SmartCaptcha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.d.ts",
   "scripts": {},
   "keywords": [
