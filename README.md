@@ -1,4 +1,4 @@
-# @types/yandex-smartcaptcha
+# yandex-smart-captcha-types
 
 This package provides TypeScript definitions for Yandex SmartCaptcha.
 
