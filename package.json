@@ -1,0 +1,17 @@
+{
+  "author": "Savenko Evgeniy <wayrez27@gmail.com>",
+  "name": "@types/yandex-smart-captcha",
+  "description": "TypeScript definitions for Yandex SmartCaptcha",
+  "version": "1.0.0",
+  "main": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "captcha",
+    "smartcaptcha",
+    "yandex"
+  ],
+  "homepage": "https://github.com/evgeniy-savenko/yandex-smart-captcha-types",
+  "repository": "https://github.com/evgeniy-savenko/yandex-smart-captcha-types",
+  "license": "MIT"
+}
